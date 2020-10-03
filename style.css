@@ -1,0 +1,64 @@
+
+      body {
+        background-image: linear-gradient(
+          to right,
+          #6da8b8,
+          #a7afbf,
+          #b2b6c6,
+          #bdbdcd,
+          #c7c4d4
+        );
+      }
+
+      header {
+        color: rgb(26, 26, 119);
+        padding-top: 20px;
+      }
+
+     
+
+      #clear {
+        clear: left;
+      }
+
+      .help {
+        color: #160b55;
+      }
+
+      td,
+      th {
+        padding: 0px 10px 0px 10px;
+        text-align: left;
+      }
+
+      #enKeyListSpan,
+      #deKeyListSpan {
+        color: red;
+      }
+
+      .key {
+        padding: 10px;
+        margin: 1px;
+        border: 1px solid grey;
+        font-weight: bold;
+      }
+
+      .key-label {
+        color: #784cab;
+      }
+
+      .key-value {
+        color: #319a46;
+      }
+
+      article {
+        border: 1px solid grey;
+        margin: 10px 10px 30px 10px;
+        padding: 10px;
+      }
+
+      a:active, a:visited{
+    color:#261515
+}
+      
+  
